@@ -8,10 +8,6 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
 public class DisplayImage {
 
