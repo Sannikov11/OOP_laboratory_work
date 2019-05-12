@@ -1,10 +1,5 @@
 "tech":[
     {
-        "description": "Classic technology data for Freeciv (as Civ2, minus a few)",
-        "format_version": "10",
-        "options": "+Freeciv-ruleset-Devel-2015.January.14 web-compatible"
-    },
-    {
         "flags": "",
         "graphic": "advanced_flight.jpg",
         "graphic_alt": "-",
